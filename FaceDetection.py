@@ -13,7 +13,7 @@ import imutils
 import time
 import cv2
 
-cam = 1
+cam = 0
 capture_training_dir = "captured_for_training\\"
 capture_detection_dir = "captured_for_recognition\\"
 model_dir = "ModelFiles\\"
